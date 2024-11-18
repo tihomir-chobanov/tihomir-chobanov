@@ -5,7 +5,7 @@
 🛠️ Skills
 Languages: Solidity, Java
 
-📫 How to reach me here: tihomir.chobanov@gmail.com
+📫 How to reach me here: tihomir.chobanov@puretechnologies.digital
 
 ---
 
